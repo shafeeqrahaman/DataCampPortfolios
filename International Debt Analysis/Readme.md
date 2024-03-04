@@ -1,4 +1,4 @@
-### :moneybag: Analyze international debt statistics
+## :moneybag: Analyze international debt statistics
 
 <img width="687" alt="Screenshot 2024-03-03 at 9 47 20 PM" src="https://github.com/shafeeqrahaman/DataCampPortfolios/assets/29007691/8325700f-4e84-40e6-b4f5-c845c615af72">
 
