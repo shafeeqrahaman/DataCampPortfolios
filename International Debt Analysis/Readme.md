@@ -10,3 +10,4 @@ In the Analyze International Debt Statistics project, you'll investigate interna
 * The average amount of debt owed by countries across different debt indicators
 * The most common debt indicator
 
+📌 Solution
